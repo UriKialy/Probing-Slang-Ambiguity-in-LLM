@@ -1,0 +1,737 @@
+sentence,binary
+"That new song is absolutely fire, I can't stop playing it",1
+The fire department responded quickly to the house fire,0
+"Your outfit is so bad, everyone's going to be jealous",1
+I got a bad grade on my chemistry test yesterday,0
+"She killed that performance, the crowd went wild",1
+The detective is investigating who killed the victim,0
+"This pizza is bomb, where did you order it from?",1
+The bomb squad was called to investigate the suspicious package,0
+"That movie was straight trash, waste of two hours",1
+Please take out the trash before the garbage truck comes,0
+"He's so pressed about losing the game, still complaining",1
+I pressed the elevator button but it's not working,0
+Stop being so salty about not getting invited,1
+The ocean water tastes very salty near the shore,0
+"That comeback was cold, you really got him good",1
+"It's so cold outside, I need to wear a jacket",0
+"Your new haircut is sick, who's your barber?",1
+"I'm feeling sick today, might stay home from work",0
+"This beat slaps, turn up the volume please",1
+She slaps mosquitoes away while camping in the woods,0
+"Don't cap, did you really meet the celebrity?",1
+I lost my baseball cap at the park yesterday,0
+"That's some good tea, tell me more details",1
+I prefer green tea over coffee in the morning,0
+"Your dance moves are lit, teach me that step",1
+The candles were lit for the romantic dinner,0
+"This restaurant is fire, we should come back again",1
+The firefighters battled the forest fire all night,0
+He's flexing his new car on social media,1
+I need to flex my muscles before working out,0
+"She has serious drip, always dressed to impress",1
+There's a water drip coming from the ceiling,0
+"That joke was dead, nobody laughed at all",1
+"The plant is dead, I forgot to water it",0
+"Stop ghosting me, reply to my text messages",1
+The children believe there's a ghost in the attic,0
+I'm lowkey excited about the concert this weekend,1
+"Keep your voice low, the baby is sleeping peacefully",0
+"That's sus, why won't you tell us where you were?",1
+The police officer suspects him of stealing the bike,0
+This coffee hits different in the morning sunshine,1
+The baseball player hits the ball out of the park,0
+"She's absolutely glowing today, looks so happy and radiant",1
+The lamp is glowing softly in the dark bedroom,0
+"Your cooking skills are chef's kiss, this tastes amazing",1
+The chef prepared a five-course meal for the guests,0
+"That outfit is clean, you look professionally dressed",1
+Make sure your hands are clean before eating dinner,0
+He's been grinding all semester for good grades,1
+I'm grinding coffee beans for tomorrow morning's breakfast,0
+"The new album is straight heat, every song bangs",1
+"Turn down the heat, the soup is boiling too rapidly",0
+"That performance was clutch, saved the whole game",1
+Press the clutch when shifting gears in manual transmission,0
+"She's serving looks today, absolutely stunning outfit",1
+The waiter is serving dinner to table number five,0
+"Don't be extra, we're just going to the store",1
+I ordered extra cheese on my pizza for tonight,0
+"That car is fresh, when did you buy it?",1
+The fresh vegetables taste better than frozen ones today,0
+"This party is poppin, everyone's having a great time",1
+The balloon is poppin because of the sharp needle,0
+"Your presentation was smooth, very well delivered and organized",1
+The lake surface is smooth without any waves today,0
+"He got bars, his rap skills are really impressive",1
+The prison has metal bars on all the windows,0
+"That's a whole mood, I completely understand that feeling",1
+Her mood changed quickly when she heard the news,0
+"This song is a bop, I've been dancing all day",1
+He gave her a gentle bop on the head playfully,0
+"Your style is tight, everything matches perfectly together",1
+"These shoes are too tight, they're hurting my feet",0
+"She's absolutely stunning, a real snack honestly",1
+I packed a healthy snack for the hiking trip,0
+"That comeback was savage, you really roasted him good",1
+The savage lion hunted zebras on the African plains,0
+"This beat goes hard, perfect for working out",1
+"The math test was hard, I studied for hours",0
+"He's soft, can't handle any criticism at all",1
+The pillow is soft and comfortable for sleeping,0
+"That's a vibe, this music matches my current mood",1
+Set your phone to vibe mode during the meeting,0
+She's pressed about not getting the promotion at work,1
+I pressed the doorbell but nobody answered the door,0
+"Don't sleep on this artist, they're incredibly talented",1
+I need to sleep early tonight for tomorrow's exam,0
+"That's fire content, your videos are getting better",1
+The fire alarm went off during our important meeting,0
+"He's mad talented, plays five different musical instruments",1
+I'm mad about the traffic delay this morning,0
+She's absolutely killing it in her new job,1
+The frost is killing all the plants in our garden,0
+"That outfit hits different, you look amazing tonight",1
+The car hits the pothole every time we drive here,0
+"This place has good vibes, let's stay a bit longer",1
+The phone vibes when someone calls or texts you,0
+"Your makeup is on point today, looks professionally done",1
+The arrow hit the point exactly in the target center,0
+"That's straight facts, you're telling the complete truth",1
+I need to check the facts before writing this report,0
+She's lowkey the best singer in our entire school,1
+Turn the key clockwise to unlock the front door,0
+"This food is bussin, compliments to the talented chef",1
+The city bus is running late again this morning,0
+"That's a whole vibe, I love this chill atmosphere",1
+The guitar strings vibe when you pluck them gently,0
+"He's spitting bars, his freestyle rap is incredible",1
+The llama is spitting at visitors in the petting zoo,0
+"Your energy is unmatched today, so positive and inspiring",1
+The soccer teams are unmatched in skill level differences,0
+"That's gas, this song is absolutely perfect for dancing",1
+I need to put gas in my car before the road trip,0
+"She's absolutely glowing, pregnancy suits her so well",1
+The fireflies are glowing beautifully in the summer evening,0
+"This beat is nasty, the producer has serious talent",1
+The nasty weather ruined our outdoor picnic plans today,0
+He's been flexing his muscles at the gym lately,1
+You need to flex your ankle after the injury heals,0
+"That performance was clean, no mistakes at all",1
+The house needs to be clean before guests arrive,0
+She's serving major looks at the fashion show tonight,1
+The restaurant is serving lunch until three o'clock today,0
+"This playlist is fire, perfect songs for the party",1
+The forest fire burned hundreds of acres last summer,0
+"Your drip is unmatched, always dressed so stylishly",1
+Fix the kitchen faucet drip before it gets worse,0
+"That comeback was brutal, he won't recover from that",1
+The brutal winter weather lasted for three long months,0
+"She's absolutely radiant today, glowing with happiness and joy",1
+The radiant heater keeps the room warm during winter,0
+"This coffee is bomb, where did you buy these beans?",1
+The bomb threat forced evacuation of the entire building,0
+He's lowkey obsessed with that new video game,1
+"Keep the music low, neighbors are trying to sleep",0
+"That's a whole snack, she looks absolutely stunning",1
+I brought a healthy snack for the long movie,0
+"Your vocals are sick, you should audition for the choir",1
+I'm feeling sick and need to see a doctor,0
+"This party is lit, everyone's dancing and having fun",1
+The birthday candles are lit on the chocolate cake,0
+"She's absolutely fire, talented in every way possible",1
+The house fire damaged the kitchen and living room,0
+"That joke was dead, the silence was so awkward",1
+The flowers are dead because nobody watered them regularly,0
+Don't ghost me after our amazing date last night,1
+Some people believe they saw a ghost in that house,0
+"Your style is fresh, love the new fashion choices",1
+Buy fresh vegetables for tonight's healthy dinner recipe,0
+"That beat goes crazy, I can't stop nodding my head",1
+The traffic situation is absolutely crazy during rush hour,0
+She's serving excellence in every single performance lately,1
+The waiter is serving appetizers to the corner table,0
+"This song is a banger, turn the volume up please",1
+The construction worker uses a hammer as a banger,0
+"Your presentation was smooth sailing, no technical issues at all",1
+The boat experienced smooth sailing across the calm lake,0
+He's absolutely cooking in the kitchen with those dance moves,1
+She's cooking dinner for the family gathering this evening,0
+"That outfit is clean, everything coordinates perfectly together today",1
+Please clean your room before your friends come over,0
+"This beat is nasty good, the bass line is incredible",1
+The nasty storm damaged several houses in our neighborhood,0
+"She's glowing up, looking better and more confident lately",1
+The stars are glowing brightly in the clear night sky,0
+"Your energy is contagious today, spreading positivity to everyone around",1
+The contagious disease spread quickly through the crowded school,0
+"That's straight fire content, your creativity knows no bounds",1
+The fire department extinguished the blaze within two hours,0
+He's lowkey the funniest person in our friend group,1
+Speak in a low voice during the library study session,0
+This food hits the spot perfectly after a long day,1
+The ball hits the spot marked with an X,0
+She's absolutely killing the game in her professional career,1
+The pesticide is killing insects in the garden effectively,0
+"That performance was cold, showed no emotion or passion",1
+The cold weather requires wearing multiple layers of clothing,0
+"Your makeup skills are unreal, you could be a professional",1
+The movie's special effects looked completely unreal and fake,0
+"This playlist slaps, every song is perfect for working out",1
+The teacher slaps the ruler on the desk for attention,0
+She's pressed about missing the concert due to work,1
+I pressed all the elevator buttons by accident today,0
+"That's sus behavior, why are you acting so secretive?",1
+The detective suspects the butler committed the crime yesterday,0
+"Your vocals are heavenly, you should record an album",1
+The heavenly clouds look beautiful against the blue sky,0
+"This beat is dirty, the bass drops are incredible",1
+My shoes are dirty from walking through the muddy park,0
+"She's absolutely glowing today, must be the new skincare routine",1
+The lamp is glowing dimly in the corner of the room,0
+"That comeback was icy, you really shut him down",1
+The icy road conditions made driving dangerous this morning,0
+"Your style game is strong, always looking put together",1
+The chess game lasted for three hours before checkmate,0
+"This song is pure heat, I've played it ten times",1
+The summer heat makes it difficult to sleep comfortably,0
+He's absolutely crushing it at his new job lately,1
+The machine is crushing aluminum cans for recycling purposes,0
+"That outfit is butter, everything flows together perfectly",1
+Please pass the butter for the fresh dinner rolls,0
+She's serving major talent in tonight's singing competition,1
+The cafeteria is serving lunch from eleven to two,0
+"This beat is stupid fire, the producer is a genius",1
+Making stupid mistakes cost us the important basketball game,0
+"Your energy is infectious, everyone feels happier around you",1
+The infectious disease requires immediate medical attention and treatment,0
+"That performance was flawless, not a single mistake made",1
+The flawless diamond sparkles beautifully in the jewelry store,0
+"This coffee is bomb, where did you discover this place?",1
+The bomb squad investigated the suspicious package in the mall,0
+She's lowkey jealous of her sister's academic success,1
+Turn the volume low during the late night movie,0
+"Your dance moves are sick, teach me that routine",1
+I'm feeling sick and need to rest in bed,0
+"This party is absolutely lit, best night of the semester",1
+The campfire is lit and ready for roasting marshmallows,0
+"That joke was fire, I'm still laughing about it",1
+The forest fire burned for days before being controlled,0
+He's flexing his new gaming setup on social media,1
+I need to flex my wrist after typing all day,0
+"Your drip is expensive, those designer clothes look amazing",1
+The leaky pipe has a constant drip that's annoying,0
+She's absolutely dead serious about pursuing medical school,1
+The dead battery needs to be replaced in the car,0
+Don't ghost your friends when you start dating someone,1
+The ghost story scared all the children at camp,0
+This restaurant is lowkey the best in the entire city,1
+Keep your expectations low to avoid disappointment later,0
+"That's sus timing, showing up right after the incident",1
+I suspect there's more to this story than you're telling,0
+Your vocals hit different during emotional songs like this,1
+The baseball hit the window and cracked the glass,0
+She's absolutely glowing with pride about her daughter's achievements,1
+The glowing embers remained hot hours after the fire,0
+That chef's kiss gesture means the food is absolutely perfect,1
+The chef prepared an elegant seven-course tasting menu tonight,0
+"Your style is clean, everything matches and looks intentional",1
+Clean the kitchen thoroughly before preparing dinner for guests,0
+He's been grinding nonstop to achieve his fitness goals,1
+The coffee grinder makes too much noise in the morning,0
+"This album is straight heat, every track is a masterpiece",1
+Adjust the heat setting to prevent burning the delicate sauce,0
+"That shot was clutch, won the game in overtime",1
+Press the clutch pedal when shifting gears in manual cars,0
+She's serving sophistication at the charity gala event tonight,1
+The elegant restaurant is serving a special Valentine's Day menu,0
+Don't be extra dramatic about missing one homework assignment,1
+I ordered extra toppings on my pizza for the party,0
+"Your ideas are fresh, bringing new perspective to our project",1
+The fresh produce section has the best vegetables and fruits,0
+"This club is poppin tonight, the music and energy are perfect",1
+The soap bubbles are poppin as children play in the bath,0
+"Your delivery was smooth, very professional presentation skills displayed",1
+The lake surface is perfectly smooth without any ripples today,0
+"He's got bars for days, his poetry skills are incredible",1
+The jail cell has thick metal bars on the windows,0
+"That's a whole mood, perfectly captures how I'm feeling",1
+Her mood improved dramatically after receiving the good news,0
+"This song is a certified bop, I can't stop dancing",1
+He gave his little brother a playful bop on the head,0
+"Your coordination is tight, the dance routine looks professional",1
+These jeans are too tight around my waist area,0
+"She's a total snack, absolutely gorgeous and charming personality",1
+I packed a protein snack for after the workout session,0
+"That roast was savage, he'll need therapy after that burn",1
+The savage storm destroyed several houses in our neighborhood,0
+"This workout goes hard, I'm already feeling the burn",1
+The final exam was hard despite studying for weeks,0
+"He's being soft, can't handle constructive criticism at all",1
+The soft blanket feels comfortable against my skin tonight,0
+"That's the vibe I'm going for, relaxed and carefree",1
+Put your phone on vibe mode during the important meeting,0
+She's pressed about not being invited to the exclusive party,1
+I pressed the wrong button and deleted my important document,0
+"Don't sleep on her talent, she's going to be famous",1
+I need eight hours of sleep before the big presentation,0
+"That content is fire, your creativity continues to amaze everyone",1
+The fire safety drill interrupted our chemistry class this afternoon,0
+"He's mad skilled at playing guitar, completely self-taught musician",1
+I'm mad about the delayed flight ruining our vacation plans,0
+She's absolutely killing it in her new management position,1
+The harsh winter is killing plants in the community garden,0
+That outfit hits different when you wear it with confidence,1
+The car hits every pothole on this poorly maintained road,0
+"This place has amazing vibes, perfect for studying and relaxation",1
+My phone vibes every time I receive a text message,0
+"Your argument is on point, logically sound and well-researched",1
+The arrow landed exactly on point in the archery target,0
+"That's straight facts, no opinion just pure truth and honesty",1
+Check your facts before sharing information on social media platforms,0
+She's lowkey the most talented artist in our graduating class,1
+Use the key to unlock the front door when you arrive,0
+"This meal is bussin, every bite tastes better than the last",1
+The bus is running behind schedule due to heavy traffic,0
+"That's a vibe check, testing if we're all on the same wavelength",1
+The guitar strings vibe sympathetically when others are played,0
+He's spitting pure fire with those freestyle rap verses,1
+The angry cat is spitting and hissing at the neighborhood dog,0
+"Your energy is absolutely unmatched, inspiring everyone around you daily",1
+The basketball teams are completely unmatched in skill and experience,0
+"That beat is gas, perfect for getting the party started",1
+"My car is almost out of gas, need to find a station",0
+She's glowing with happiness after receiving the scholarship news,1
+The fireflies are glowing magically in the warm summer evening,0
+"This beat is nasty in the best way possible, incredible production",1
+The nasty weather forced cancellation of the outdoor concert event,0
+He's flexing his knowledge about obscure historical facts constantly,1
+Flex your fingers regularly to prevent cramping while typing,0
+"That performance was clean execution, no errors or missed cues",1
+The house must be clean before the real estate showing,0
+She's serving major boss energy at today's board meeting,1
+The fancy restaurant is serving a limited seasonal menu tonight,0
+"This playlist is absolutely fire, perfect songs for road trips",1
+The devastating fire consumed the entire warehouse building yesterday,0
+"Your drip is immaculate, every detail of your outfit is perfect",1
+Fix that annoying drip from the bathroom sink faucet please,0
+"That comeback was absolutely brutal, he won't recover his dignity",1
+The brutal mountain conditions challenged even experienced climbers today,0
+She's radiant with joy after announcing her engagement news,1
+The radiant floor heating keeps the bathroom warm during winter,0
+"This coffee is bomb, definitely worth the twenty-minute wait",1
+The bomb threat forced immediate evacuation of the government building,0
+He's lowkey obsessed with collecting vintage comic books and memorabilia,1
+"Keep the noise low, the baby finally fell asleep peacefully",0
+"That's a whole snack walking by, absolutely stunning and confident",1
+I brought a nutritious snack for the long hiking trail,0
+"Your singing voice is sick, you should audition for the show",1
+I'm feeling sick and need to schedule a doctor's appointment,0
+"This party is completely lit, everyone's energy is contagious and positive",1
+The romantic dinner candles are lit creating perfect ambiance tonight,0
+"She's absolutely fire, talented, beautiful, and incredibly intelligent too",1
+The house fire started in the kitchen due to electrical problems,0
+"That joke was dead on arrival, nobody even cracked a smile",1
+The houseplant is dead because I forgot to water it regularly,0
+Please don't ghost me after we had such a connection,1
+The children claim they saw a ghost in the old mansion,0
+"Your perspective is fresh, bringing innovative solutions to old problems",1
+Buy fresh ingredients for tonight's special anniversary dinner celebration,0
+"That beat goes absolutely crazy, I can't sit still while listening",1
+The traffic situation is completely crazy during holiday travel seasons,0
+She's serving pure excellence in every aspect of her performance,1
+The five-star restaurant is serving an exclusive chef's tasting menu,0
+"This song is a certified banger, guaranteed to fill the dance floor",1
+The demolition worker swings the heavy banger to break concrete,0
+"Your presentation had smooth sailing, no technical difficulties whatsoever",1
+The yacht experienced smooth sailing across the calm Mediterranean waters,0
+He's absolutely cooking with those incredible dance moves tonight,1
+She's cooking a traditional family recipe for Sunday dinner,0
+"That outfit coordination is clean, everything works together harmoniously",1
+Please clean the entire house before your parents visit next week,0
+"This beat is nasty good, the layered production is absolutely incredible",1
+The nasty thunderstorm knocked out power in half the city,0
+"She's been glowing up all semester, confidence and style improving dramatically",1
+The full moon is glowing brilliantly in the clear night sky,0
+"Your positive energy is contagious, lifting everyone's spirits around you",1
+The contagious flu virus spread rapidly through the crowded school,0
+"That performance was straight fire content, creativity and execution were flawless",1
+The volunteer fire department responded quickly to the emergency call,0
+He's lowkey the most hilarious person in our entire friend group,1
+Please speak in a low voice during the library quiet hours,0
+This comfort food hits the spot perfectly after a stressful day,1
+The tennis ball hits the exact spot marked on the court,0
+She's absolutely killing the game in her new entrepreneurial venture,1
+The effective insecticide is killing harmful pests in the vegetable garden,0
+"That response was ice cold, showing absolutely no mercy or emotion",1
+The cold winter wind requires wearing multiple warm layers of clothing,0
+"Your makeup artistry skills are completely unreal, you're incredibly talented",1
+The movie's computer-generated special effects looked obviously unreal and artificial,0
+"This workout playlist absolutely slaps, every song motivates me to push harder",1
+The frustrated teacher slaps the textbook on the desk to get attention,0
+She's really pressed about missing her favorite band's farewell concert,1
+I accidentally pressed all the elevator buttons while carrying heavy groceries,0
+"That's suspicious behavior, why are you being so secretive and evasive?",1
+The experienced detective suspects the quiet neighbor committed the burglary,0
+"Your singing voice is absolutely heavenly, you could record professional albums",1
+The heavenly white clouds create beautiful patterns against the bright blue sky,0
+"This bass line is dirty in the best possible way, incredible musical production",1
+My white sneakers are completely dirty from hiking through the muddy forest,0
+"She's absolutely glowing today, must be the result of her new wellness routine",1
+The table lamp is glowing softly in the corner of the cozy reading room,0
+"That comeback was absolutely icy, you completely shut down his weak argument",1
+The dangerously icy road conditions made morning commuting treacherous and slow,0
+"Your fashion game is incredibly strong, always looking polished and put together",1
+The intense chess game lasted four hours before someone achieved checkmate,0
+"This new song is pure heat, I've already played it fifteen times today",1
+The oppressive summer heat makes sleeping comfortably nearly impossible without air conditioning,0
+He's absolutely crushing it at his challenging new software engineering job,1
+The industrial machine is crushing empty aluminum cans for efficient recycling,0
+"That outfit flows like butter, every piece works together in perfect harmony",1
+Please pass the organic butter for the freshly baked homemade dinner rolls,0
+She's serving major talent and charisma in tonight's competitive singing audition,1
+The school cafeteria is serving healthy lunch options from eleven until two,0
+"This beat is stupid fire, the producer clearly has exceptional musical genius",1
+Making careless stupid mistakes cost our team the crucial championship basketball game,0
+"Your enthusiasm is infectious, everyone feels happier and more motivated around you",1
+The dangerous infectious disease requires immediate professional medical attention and quarantine treatment,0
+"That dance performance was absolutely flawless, not a single mistake or misstep",1
+The flawless diamond sparkles brilliantly under the bright jewelry store display lighting,0
+"This artisanal coffee is bomb, where did you discover this hidden gem cafe?",1
+The professional bomb squad carefully investigated the suspicious package in the shopping mall,0
+She's lowkey jealous of her younger sister's effortless academic success and achievements,1
+Please turn the music volume low during the late night movie marathon,0
+"Your innovative dance moves are sick, please teach me that complex routine",1
+I'm feeling sick with flu symptoms and need to rest in bed,0
+"This college party is absolutely lit, definitely the best night of the entire semester",1
+The cozy campfire is lit and ready for roasting marshmallows and telling stories,0
+"That spontaneous joke was pure fire, I'm still laughing about it hours later",1
+The dangerous forest fire burned uncontrolled for several days before firefighters contained it,0
+He's constantly flexing his expensive new gaming setup on all social media platforms,1
+I need to regularly flex my injured wrist after typing at the computer all day,0
+"Your designer drip is expensive looking, those luxury clothes look absolutely amazing on you",1
+The persistently leaky kitchen pipe has an annoying constant drip that needs professional repair,0
+She's absolutely dead serious about pursuing her dream of attending prestigious medical school,1
+The completely dead car battery needs to be professionally replaced before the vehicle will start,0
+Please don't ghost your longtime friends when you start dating someone new and exciting,1
+The spooky ghost story completely scared all the young children at summer camp,0
+This family restaurant is lowkey the absolute best dining establishment in the entire city,1
+Keep your expectations realistically low to avoid inevitable disappointment and frustration later,0
+"That's suspicious timing, showing up immediately after the controversial incident occurred",1
+I strongly suspect there's much more to this complicated story than you're telling,0
+Your powerful vocals hit completely different during emotionally charged songs like this beautiful ballad,1
+The fast baseball hit the living room window and cracked the expensive glass,0
+She's absolutely glowing with maternal pride about her talented daughter's academic achievements,1
+The glowing red embers remained dangerously hot several hours after the campfire was extinguished,0
+That chef's kiss gesture clearly means the delicious food is absolutely perfect and well-seasoned,1
+The professional chef carefully prepared an elegant seven-course gourmet tasting menu for tonight's guests,0
+"Your personal style is incredibly clean, everything matches perfectly and looks completely intentional",1
+Please clean the entire kitchen thoroughly before preparing dinner for our important guests,0
+He's been grinding relentlessly nonstop to achieve his ambitious fitness and health goals,1
+The loud coffee grinder makes too much noise early in the morning for sleeping neighbors,0
+"This new album is straight heat, every single track is a genuine musical masterpiece",1
+Carefully adjust the stove heat setting to prevent burning the delicate cream sauce,0
+"That game-winning shot was absolutely clutch, securing victory in dramatic overtime play",1
+Always press the car clutch pedal when shifting gears in manual transmission vehicles,0
+She's serving pure sophistication and elegance at tonight's exclusive charity gala event,1
+The upscale restaurant is serving a special romantic Valentine's Day menu for couples,0
+Don't be extra dramatic about missing just one single homework assignment deadline,1
+I ordered extra cheese and pepperoni toppings on my pizza for tonight's party,0
+"Your creative ideas are fresh, bringing innovative perspective to our challenging project",1
+The fresh organic produce section has the best quality vegetables and seasonal fruits,0
+"This nightclub is absolutely poppin tonight, the music and crowd energy are perfect",1
+The colorful soap bubbles are poppin as happy children play in the warm bath,0
+"Your presentation delivery was incredibly smooth, displaying very professional communication skills",1
+The peaceful lake surface is perfectly smooth without any ripples or waves today,0
+"He's got bars for days, his creative poetry and writing skills are absolutely incredible",1
+The old jail cell has thick rusty metal bars on all the windows,0
+"That's a whole mood, perfectly captures exactly how I'm feeling right now",1
+Her cheerful mood improved dramatically after receiving the unexpected good news about her promotion,0
+"This catchy song is a certified bop, I absolutely can't stop dancing to the rhythm",1
+He playfully gave his annoying little brother a gentle bop on the head,0
+"Your team coordination is incredibly tight, the dance routine looks professionally choreographed",1
+These restrictive jeans are uncomfortably tight around my waist and hip area,0
+"She's a total snack, absolutely gorgeous with charming personality and infectious smile",1
+I carefully packed a healthy protein snack for after the intense workout session,0
+"That brutal roast was absolutely savage, he'll definitely need therapy after that burn",1
+The savage winter storm destroyed several houses in our quiet residential neighborhood,0
+"This challenging workout goes incredibly hard, I'm already feeling the intense burn",1
+The comprehensive final exam was extremely hard despite studying diligently for weeks,0
+"He's being unnecessarily soft, completely unable to handle any constructive criticism at all",1
+The luxuriously soft cashmere blanket feels wonderfully comfortable against my skin tonight,0
+"That's exactly the vibe I'm going for, relaxed and completely carefree attitude",1
+Please put your phone on silent vibe mode during the important business meeting,0
+She's really pressed about not being invited to the exclusive VIP party,1
+I accidentally pressed the wrong button and permanently deleted my important work document,0
+"Don't sleep on her exceptional talent, she's definitely going to become famous",1
+I absolutely need eight full hours of quality sleep before tomorrow's big presentation,0
+"That creative content is pure fire, your artistic creativity continues to amaze everyone",1
+The mandatory fire safety drill unexpectedly interrupted our important chemistry class this afternoon,0
+"He's mad skilled at playing classical guitar, completely self-taught musician with natural talent",1
+I'm absolutely mad about the delayed flight completely ruining our expensive vacation plans,0
+She's absolutely killing it in her challenging new management position at the company,1
+The harsh brutal winter weather is killing delicate plants in the community garden,0
+That stylish outfit hits completely different when you wear it with genuine confidence,1
+My car hits every single pothole on this poorly maintained residential road,0
+"This cozy place has absolutely amazing vibes, perfect for productive studying and peaceful relaxation",1
+My smartphone vibes every single time I receive a text message or notification,0
+"Your logical argument is completely on point, well-researched and intellectually sound",1
+The skilled archer's arrow landed exactly on point in the center of the target,0
+"That's straight facts, no personal opinion just pure truth and complete honesty",1
+Always check your facts before sharing potentially false information on social media platforms,0
+She's lowkey the most genuinely talented artist in our entire graduating class,1
+Use the correct key to unlock the front door when you arrive home,0
+"This delicious meal is absolutely bussin, every single bite tastes better than the last",1
+The city bus is running significantly behind schedule due to heavy rush hour traffic,0
+"That's a complete vibe check, testing if we're all on the same emotional wavelength",1
+The acoustic guitar strings vibe sympathetically when other strings are played nearby,0
+He's spitting pure fire with those incredible freestyle rap verses and wordplay,1
+The angry stray cat is spitting and hissing aggressively at the neighborhood dog,0
+"Your positive energy is absolutely unmatched, inspiring everyone around you daily with enthusiasm",1
+The competing basketball teams are completely unmatched in skill level and experience,0
+"That sick beat is pure gas, absolutely perfect for getting the party started",1
+"My car is almost completely out of gas, need to find a station soon",0
+She's glowing with pure happiness after receiving the full scholarship news,1
+The magical fireflies are glowing beautifully in the warm summer evening air,0
+"This beat is nasty in the absolute best way possible, incredible musical production quality",1
+The nasty severe weather forced immediate cancellation of the outdoor concert event,0
+He's constantly flexing his extensive knowledge about obscure historical facts and trivia,1
+Remember to flex your fingers regularly to prevent painful cramping while typing extensively,0
+"That flawless performance was clean execution, absolutely no errors or missed cues whatsoever",1
+The entire house must be spotlessly clean before tomorrow's important real estate showing,0
+She's serving major boss energy at today's crucial board meeting with executives,1
+The upscale restaurant is serving a limited seasonal menu tonight featuring local ingredients,0
+"This carefully curated playlist is absolutely fire, perfect songs for long road trips",1
+The devastating warehouse fire consumed the entire building yesterday evening despite firefighter efforts,0
+"Your designer drip is absolutely immaculate, every single detail of your outfit is perfect",1
+Please fix that persistently annoying drip from the bathroom sink faucet immediately,0
+"That savage comeback was absolutely brutal, he definitely won't recover his wounded dignity",1
+The brutal mountain climbing conditions challenged even the most experienced climbers today,0
+She's absolutely radiant with joy after announcing her surprise engagement news to family,1
+The efficient radiant floor heating system keeps the bathroom comfortably warm during winter,0
+"This artisanal coffee is absolutely bomb, definitely worth the twenty-minute wait in line",1
+The bomb threat forced immediate evacuation of the entire government building this morning,0
+He's lowkey obsessed with collecting rare vintage comic books and superhero memorabilia,1
+"Please keep the noise level low, the baby finally fell asleep peacefully upstairs",0
+"That's a whole snack walking confidently by, absolutely stunning and radiating self-confidence",1
+I carefully packed a nutritious granola snack for the long challenging hiking trail,0
+"Your angelic singing voice is absolutely sick, you should audition for the talent show",1
+I'm feeling quite sick today and need to schedule an appointment with my doctor,0
+"This college party is completely lit, everyone's contagious energy is positive and uplifting",1
+The romantic anniversary dinner candles are lit creating perfect intimate ambiance tonight,0
+"She's absolutely fire, incredibly talented, beautiful, and genuinely intelligent too",1
+The serious house fire started in the kitchen due to faulty electrical wiring problems,0
+"That poorly timed joke was completely dead on arrival, nobody even cracked a smile",1
+The neglected houseplant is unfortunately dead because I forgot to water it regularly,0
+Please don't ghost me after we had such a genuine connection and meaningful conversation,1
+The frightened children claim they saw a mysterious ghost in the old abandoned mansion,0
+"Your unique perspective is refreshingly fresh, bringing innovative solutions to persistent old problems",1
+Buy the freshest organic ingredients for tonight's special anniversary dinner celebration with family,0
+"That incredible beat goes absolutely crazy, I can't sit still while listening to it",1
+The traffic situation is completely crazy during busy holiday travel seasons nationwide,0
+She's confidently serving pure excellence in every single aspect of her outstanding performance,1
+The exclusive five-star restaurant is serving an elaborate chef's tasting menu tonight,0
+"This song is a certified banger, absolutely guaranteed to fill the dance floor completely",1
+The demolition worker powerfully swings the heavy banger to break thick concrete walls,0
+"Your presentation experienced smooth sailing, absolutely no technical difficulties whatsoever occurred",1
+The luxury yacht experienced smooth sailing across the calm Mediterranean waters today,0
+He's absolutely cooking with those incredible dance moves and rhythm tonight,1
+She's carefully cooking a traditional family recipe for Sunday dinner with relatives,0
+"That outfit coordination is impressively clean, everything works together in perfect harmony",1
+Please clean the entire house thoroughly before your parents visit next week,0
+"This beat is nasty good, the complex layered production is absolutely incredible",1
+The nasty thunderstorm knocked out electrical power in half the city overnight,0
+"She's been glowing up all semester, confidence and style improving dramatically every week",1
+The bright full moon is glowing brilliantly in the crystal clear night sky,0
+"Your infectious positive energy is contagious, lifting everyone's spirits around you naturally",1
+The contagious flu virus spread rapidly through the overcrowded elementary school,0
+"That performance was straight fire content, creativity and flawless execution were absolutely perfect",1
+The volunteer fire department responded quickly to the emergency call this morning,0
+He's lowkey the most genuinely hilarious person in our entire close friend group,1
+Please speak in a low voice during the library's designated quiet study hours,0
+This comfort food hits the spot perfectly after an incredibly stressful workday,1
+The tennis ball hits the exact spot marked clearly on the court surface,0
+She's absolutely killing the game in her exciting new entrepreneurial business venture,1
+The effective insecticide is killing harmful pests in the organic vegetable garden,0
+"That response was ice cold, showing absolutely no mercy or human emotion whatsoever",1
+The bitter cold winter wind requires wearing multiple warm layers of protective clothing,0
+"Your makeup artistry skills are completely unreal, you're incredibly talented and creative",1
+The movie's computer-generated special effects looked obviously unreal and poorly executed,0
+"This workout playlist absolutely slaps, every song motivates me to push harder",1
+The frustrated teacher slaps the heavy textbook on the desk to get students' attention,0
+She's really pressed about missing her favorite band's farewell concert last night,1
+I accidentally pressed all the elevator buttons while carrying heavy grocery bags,0
+"That's highly suspicious behavior, why are you being so secretive and evasive lately?",1
+The experienced detective suspects the quiet neighbor committed the neighborhood burglary,0
+"Your singing voice is absolutely heavenly, you could definitely record professional albums",1
+The heavenly white clouds create beautiful artistic patterns against the bright blue sky,0
+"This bass line is dirty in the best possible way, incredible musical production",1
+My white sneakers are completely dirty from hiking through the muddy forest trail,0
+"She's absolutely glowing today, must be the positive result of her new wellness routine",1
+The antique table lamp is glowing softly in the corner of the cozy reading room,0
+"That comeback was absolutely icy, you completely shut down his weak pathetic argument",1
+The dangerously icy road conditions made morning commuting treacherous and extremely slow,0
+"Your fashion game is incredibly strong, always looking polished and professionally put together",1
+The intense competitive chess game lasted four hours before someone achieved checkmate,0
+"This new song is pure heat, I've already played it fifteen times today",1
+The oppressive summer heat makes sleeping comfortably nearly impossible without air conditioning,0
+He's absolutely crushing it at his challenging new software engineering job at the startup,1
+The industrial recycling machine is crushing empty aluminum cans for efficient processing,0
+"That outfit flows like smooth butter, every piece works together in perfect harmony",1
+Please pass the organic butter for the freshly baked homemade dinner rolls tonight,0
+She's serving major talent and natural charisma in tonight's competitive singing audition,1
+The school cafeteria is serving healthy lunch options from eleven until two o'clock,0
+"This beat is stupid fire, the producer clearly has exceptional musical genius and talent",1
+Making careless stupid mistakes cost our team the crucial championship basketball game,0
+"Your enthusiasm is genuinely infectious, everyone feels happier and more motivated around you",1
+The dangerous infectious disease requires immediate professional medical attention and quarantine treatment,0
+"That dance performance was absolutely flawless, not a single mistake or misstep occurred",1
+The flawless diamond sparkles brilliantly under the bright jewelry store display lighting,0
+"This artisanal coffee is bomb, where did you discover this amazing hidden gem cafe?",1
+The professional bomb squad carefully investigated the suspicious package in the shopping mall,0
+She's lowkey jealous of her younger sister's effortless academic success and achievements,1
+Please turn the music volume low during the late night movie marathon session,0
+"Your innovative dance moves are sick, please teach me that incredibly complex routine",1
+I'm feeling sick with flu symptoms and need to rest in bed today,0
+"This college party is absolutely lit, definitely the best night of the entire semester",1
+The cozy campfire is lit and ready for roasting marshmallows and telling ghost stories,0
+"That spontaneous joke was pure fire, I'm still laughing about it hours later",1
+The dangerous forest fire burned uncontrolled for several days before firefighters contained it,0
+He's constantly flexing his expensive new gaming setup on all social media platforms,1
+I need to regularly flex my injured wrist after typing at the computer all day,0
+"Your designer drip is expensive looking, those luxury clothes look absolutely amazing on you",1
+The persistently leaky kitchen pipe has an annoying constant drip that needs professional repair,0
+She's absolutely dead serious about pursuing her lifelong dream of attending prestigious medical school,1
+The completely dead car battery needs to be professionally replaced before the vehicle will start,0
+Please don't ghost your longtime friends when you start dating someone new and exciting,1
+The spooky ghost story completely scared all the young children at summer camp,0
+This family restaurant is lowkey the absolute best dining establishment in the entire city,1
+Keep your expectations realistically low to avoid inevitable disappointment and frustration later,0
+"That's suspicious timing, showing up immediately after the controversial incident occurred yesterday",1
+I strongly suspect there's much more to this complicated story than you're telling me,0
+Your powerful vocals hit completely different during emotionally charged songs like this beautiful ballad,1
+The fast baseball hit the living room window and cracked the expensive glass pane,0
+She's absolutely glowing with maternal pride about her talented daughter's academic achievements,1
+The glowing red embers remained dangerously hot several hours after the campfire was extinguished,0
+That chef's kiss gesture clearly means the delicious food is absolutely perfect and well-seasoned,1
+The professional chef carefully prepared an elegant seven-course gourmet tasting menu for tonight's guests,0
+"Your personal style is incredibly clean, everything matches perfectly and looks completely intentional",1
+Please clean the entire kitchen thoroughly before preparing dinner for our important guests tonight,0
+He's been grinding relentlessly nonstop to achieve his ambitious fitness and health goals this year,1
+The loud coffee grinder makes too much noise early in the morning for sleeping neighbors,0
+"This new album is straight heat, every single track is a genuine musical masterpiece",1
+Carefully adjust the stove heat setting to prevent burning the delicate cream sauce,0
+"That game-winning shot was absolutely clutch, securing victory in dramatic overtime play",1
+Always press the car clutch pedal when shifting gears in manual transmission vehicles,0
+She's serving pure sophistication and elegance at tonight's exclusive charity gala event,1
+The upscale restaurant is serving a special romantic Valentine's Day menu for couples,0
+Don't be extra dramatic about missing just one single homework assignment deadline,1
+I ordered extra cheese and pepperoni toppings on my pizza for tonight's party,0
+"Your creative ideas are fresh, bringing innovative perspective to our challenging project",1
+The fresh organic produce section has the best quality vegetables and seasonal fruits available,0
+"This nightclub is absolutely poppin tonight, the music and crowd energy are absolutely perfect",1
+The colorful soap bubbles are poppin as happy children play in the warm bubble bath,0
+"Your presentation delivery was incredibly smooth, displaying very professional communication skills throughout",1
+The peaceful lake surface is perfectly smooth without any ripples or waves today,0
+"He's got bars for days, his creative poetry and writing skills are absolutely incredible",1
+The old abandoned jail cell has thick rusty metal bars on all the windows,0
+"That's a whole mood, perfectly captures exactly how I'm feeling right now about everything",1
+Her cheerful mood improved dramatically after receiving the unexpected good news about her promotion,0
+"This catchy song is a certified bop, I absolutely can't stop dancing to the infectious rhythm",1
+He playfully gave his annoying little brother a gentle bop on the head yesterday,0
+"Your team coordination is incredibly tight, the dance routine looks professionally choreographed and polished",1
+These restrictive jeans are uncomfortably tight around my waist and hip area today,0
+"She's a total snack, absolutely gorgeous with charming personality and infectious smile",1
+I carefully packed a healthy protein snack for after the intense workout session today,0
+"That brutal roast was absolutely savage, he'll definitely need therapy after that devastating burn",1
+The savage winter storm destroyed several houses in our quiet residential neighborhood last night,0
+"This challenging workout goes incredibly hard, I'm already feeling the intense muscle burn",1
+The comprehensive final exam was extremely hard despite studying diligently for weeks beforehand,0
+"He's being unnecessarily soft, completely unable to handle any constructive criticism at all",1
+The luxuriously soft cashmere blanket feels wonderfully comfortable against my skin tonight,0
+"That's exactly the vibe I'm going for, relaxed and completely carefree attitude",1
+Please put your phone on silent vibe mode during the important business meeting today,0
+She's really pressed about not being invited to the exclusive VIP party last weekend,1
+I accidentally pressed the wrong button and permanently deleted my important work document,0
+"Don't sleep on her exceptional talent, she's definitely going to become famous someday",1
+I absolutely need eight full hours of quality sleep before tomorrow's big presentation,0
+"That creative content is pure fire, your artistic creativity continues to amaze everyone daily",1
+The mandatory fire safety drill unexpectedly interrupted our important chemistry class this afternoon,0
+"He's mad skilled at playing classical guitar, completely self-taught musician with natural talent",1
+I'm absolutely mad about the delayed flight completely ruining our expensive vacation plans,0
+She's absolutely killing it in her challenging new management position at the company,1
+The harsh brutal winter weather is killing delicate plants in the community garden,0
+That stylish outfit hits completely different when you wear it with genuine confidence and pride,1
+My car hits every single pothole on this poorly maintained residential road daily,0
+"This cozy place has absolutely amazing vibes, perfect for productive studying and peaceful relaxation",1
+My smartphone vibes every single time I receive a text message or notification alert,0
+"Your logical argument is completely on point, well-researched and intellectually sound throughout",1
+The skilled archer's arrow landed exactly on point in the center of the target,0
+"That's straight facts, no personal opinion just pure truth and complete honesty",1
+Always check your facts before sharing potentially false information on social media platforms,0
+She's lowkey the most genuinely talented artist in our entire graduating class this year,1
+Use the correct key to unlock the front door when you arrive home tonight,0
+"This delicious meal is absolutely bussin, every single bite tastes better than the last one",1
+The city bus is running significantly behind schedule due to heavy rush hour traffic congestion,0
+"That's a complete vibe check, testing if we're all on the same emotional wavelength",1
+The acoustic guitar strings vibe sympathetically when other strings are played nearby,0
+He's spitting pure fire with those incredible freestyle rap verses and clever wordplay,1
+The angry stray cat is spitting and hissing aggressively at the neighborhood dog,0
+"Your positive energy is absolutely unmatched, inspiring everyone around you daily with natural enthusiasm",1
+The competing basketball teams are completely unmatched in skill level and years of experience,0
+"That sick beat is pure gas, absolutely perfect for getting any party started right",1
+"My car is almost completely out of gas, need to find a gas station soon",0
+She's glowing with pure happiness after receiving the full scholarship acceptance news today,1
+The magical fireflies are glowing beautifully in the warm summer evening air tonight,0
+"This beat is nasty in the absolute best way possible, incredible musical production quality",1
+The nasty severe weather forced immediate cancellation of the outdoor concert event tonight,0
+He's constantly flexing his extensive knowledge about obscure historical facts and random trivia,1
+Remember to flex your fingers regularly to prevent painful cramping while typing extensively,0
+"That flawless performance was clean execution, absolutely no errors or missed cues whatsoever",1
+The entire house must be spotlessly clean before tomorrow's important real estate showing,0
+She's serving major boss energy at today's crucial board meeting with company executives,1
+The upscale restaurant is serving a limited seasonal menu tonight featuring fresh local ingredients,0
+"This carefully curated playlist is absolutely fire, perfect songs for long cross-country road trips",1
+The devastating warehouse fire consumed the entire building yesterday evening despite firefighter efforts,0
+"Your designer drip is absolutely immaculate, every single detail of your outfit is completely perfect",1
+Please fix that persistently annoying drip from the bathroom sink faucet immediately today,0
+"That savage comeback was absolutely brutal, he definitely won't recover his wounded dignity",1
+The brutal mountain climbing conditions challenged even the most experienced climbers today,0
+She's absolutely radiant with joy after announcing her surprise engagement news to family members,1
+The efficient radiant floor heating system keeps the bathroom comfortably warm during winter months,0
+"This artisanal coffee is absolutely bomb, definitely worth the twenty-minute wait in the long line",1
+The bomb threat forced immediate evacuation of the entire government building this morning,0
+He's lowkey obsessed with collecting rare vintage comic books and valuable superhero memorabilia,1
+"Please keep the noise level low, the baby finally fell asleep peacefully upstairs",0
+"That's a whole snack walking confidently by, absolutely stunning and radiating pure self-confidence",1
+I carefully packed a nutritious granola snack for the long challenging hiking trail today,0
+"Your angelic singing voice is absolutely sick, you should definitely audition for the talent show",1
+I'm feeling quite sick today and need to schedule an appointment with my doctor soon,0
+"This college party is completely lit, everyone's contagious energy is positive and genuinely uplifting",1
+The romantic anniversary dinner candles are lit creating perfect intimate ambiance for tonight,0
+"She's absolutely fire, incredibly talented, beautiful, and genuinely intelligent in every way too",1
+The serious house fire started in the kitchen due to faulty electrical wiring problems,0
+"That poorly timed joke was completely dead on arrival, nobody even cracked a smile",1
+The neglected houseplant is unfortunately dead because I forgot to water it regularly,0
+Please don't ghost me after we had such a genuine connection and meaningful conversation tonight,1
+The frightened children claim they saw a mysterious ghost in the old abandoned mansion,0
+"Your unique perspective is refreshingly fresh, bringing innovative solutions to persistent old problems",1
+Buy the freshest organic ingredients for tonight's special anniversary dinner celebration with family,0
+"That incredible beat goes absolutely crazy, I can't sit still while listening to it",1
+The traffic situation is completely crazy during busy holiday travel seasons nationwide,0
+She's confidently serving pure excellence in every single aspect of her outstanding performance tonight,1
+The exclusive five-star restaurant is serving an elaborate chef's tasting menu tonight,0
+"This song is a certified banger, absolutely guaranteed to fill the dance floor completely",1
+The demolition worker powerfully swings the heavy banger to break thick concrete walls,0
+"Your presentation experienced smooth sailing, absolutely no technical difficulties whatsoever occurred",1
+The luxury yacht experienced smooth sailing across the calm Mediterranean waters today,0
+He's absolutely cooking with those incredible dance moves and perfect rhythm tonight,1
+She's carefully cooking a traditional family recipe for Sunday dinner with relatives,0
+"That outfit coordination is impressively clean, everything works together in perfect harmony",1
+Please clean the entire house thoroughly before your parents visit next week for dinner,0
+"This beat is nasty good, the complex layered production is absolutely incredible and masterful",1
+The nasty thunderstorm knocked out electrical power in half the city overnight,0
+"She's been glowing up all semester, confidence and style improving dramatically every single week",1
+The bright full moon is glowing brilliantly in the crystal clear night sky above,0
+"Your infectious positive energy is contagious, lifting everyone's spirits around you naturally every day",1
+The contagious flu virus spread rapidly through the overcrowded elementary school this week,0
