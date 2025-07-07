@@ -3,10 +3,10 @@ import requests
 from tqdm import tqdm
 import time
 import matplotlib.pyplot as plt
-
+from keys_do_not_upload import deepseek_API_key
 # === CONFIGURATION ===
 DATA_PATH = r"C:\Users\sheff\PycharmProjects\Probing-Slang-Ambiguity-in-LLM\opensub\data\slang_OpenSub_filtered.tsv"
-API_KEY = "sk-0c1a068b60c94111b1ea11285eeceb51"  # Make sure there are no extra spaces
+API_KEY = deepseek_API_key
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 MODEL_NAME = "deepseek-chat"
 
