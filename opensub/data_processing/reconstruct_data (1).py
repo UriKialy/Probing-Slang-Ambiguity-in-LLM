@@ -14,7 +14,7 @@ re_multispace = re.compile(r"\s+")
 # Match filenames like "12345.xml" (only digits, then ".xml")
 re_xml = re.compile(r"^([0-9]+)\.xml$")
 
-# Make sure to use a raw string (or escape backslashes) on Windows
+# use a raw string 
 data_dir_prefix = r"C:\Users\yozev\Downloads\en (2)\OpenSubtitles\xml\en"
 
 
