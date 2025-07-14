@@ -51,7 +51,7 @@ print("\nQuerying DeepSeek on negative sentences...")
 for _, row in tqdm(neg_df.iterrows(), total=len(neg_df)):
     guess = ask_deepseek_sentence_has_slang(row['sentence'])
     results.append(guess)
-    time.sleep(1)  # respect rate limits; adjust if you have a higher quota
+    time.sleep(1)  # respect rate limits
 
 neg_df['deepseek_thinks_slang'] = results
 
