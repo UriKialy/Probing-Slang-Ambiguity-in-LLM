@@ -48,7 +48,7 @@ print("\nQuerying DeepSeek for slang detection...")
 for _, row in tqdm(df.iterrows(), total=len(df)):
     is_slang = ask_deepseek_is_slang(row['slang'], row['context'])
     results.append(is_slang)
-    time.sleep(1)  # avoid rate limits, adjust if needed
+    time.sleep(1)  # avoid rate limits
 
 df['deepseek_slang'] = results
 df = df[df['deepseek_slang'].notnull()]
